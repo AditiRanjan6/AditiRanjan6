@@ -428,7 +428,7 @@ Interested in conversations around
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aditiranjan">
+<a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwM6nlDDOTjCfSxsXaVY80g%3D%3D">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
