@@ -1,32 +1,31 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Aditi Ranjan - GitHub Banner">
+<img src="https://raw.githubusercontent.com/AditiRanjan6/AditiRanjan6/main/github-banner.png" alt="Aditi Ranjan GitHub Banner" width="100%">
 
-<br>
+<br><br>
 
-<h1>
-  <font color="#2E8B9C">ADITI RANJAN</font>
-</h1>
+<h1>ADITI RANJAN</h1>
 
-<h3>
-  PRODUCT • BUSINESS • TECHNOLOGY
-</h3>
+<h3>PRODUCT • BUSINESS • TECHNOLOGY</h3>
 
 <p>
-  Building technology-driven products focused on solving
-  <strong>real user and business problems.</strong>
+Computer Science Engineer focused on building technology-driven products
+<br>
+that solve <strong>real user and business problems.</strong>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/aditiranjan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:aditiranjan80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2E8B9C?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/aditiranjan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/aditiranjan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:aditiranjan80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=flat-square&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/AditiRanjan6">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
 </p>
 
 </div>
@@ -35,59 +34,17 @@
 
 ## FOCUS AREAS
 
-<table>
-<tr>
+<div align="center">
 
-<td width="25%" align="center">
+| 🔵 **PRODUCT** | 🟦 **BUSINESS** | 💻 **TECHNOLOGY** | 🤖 **AI & DATA** |
+|:---:|:---:|:---:|:---:|
+| Product Discovery | Business Development | Python | AI Products |
+| User Research | Market Research | Java | Data Analysis |
+| Product Strategy | Competitive Analysis | C++ | NLP |
+| Product Thinking | Growth Strategy | SQL | Voice Interfaces |
+| User Testing | Customer Discovery | Web Technologies | Product Analytics |
 
-### PRODUCT
-
-Product Discovery  
-User Research  
-Product Strategy  
-Roadmapping  
-Product Thinking
-
-</td>
-
-<td width="25%" align="center">
-
-### BUSINESS
-
-Business Development  
-Market Research  
-Competitive Analysis  
-Growth Strategy  
-Customer Discovery
-
-</td>
-
-<td width="25%" align="center">
-
-### TECHNOLOGY
-
-Python  
-Java  
-C++  
-SQL  
-Web Technologies
-
-</td>
-
-<td width="25%" align="center">
-
-### DATA & AI
-
-AI Products  
-Data Analysis  
-NLP  
-Voice Interfaces  
-Product Analytics
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -95,41 +52,37 @@ Product Analytics
 
 I'm a Computer Science engineer interested in the intersection of **technology, products, and business**.
 
-My work focuses on understanding problems, exploring user needs, building technical solutions, and turning ideas into useful products.
+My experience includes leading UI/UX initiatives, taking software projects from **ideation through implementation**, conducting user testing, and collaborating across technical and design work.
 
-I enjoy working across:
+I'm particularly interested in:
 
-- Product discovery and problem solving
+- Building useful technology products
+- Understanding users and their problems
 - Business development and market research
-- User experience and interface design
-- AI-powered products
-- Data and analytics
-- Technical implementation
+- AI-powered products and data
+- Product strategy and experimentation
 - Cross-functional collaboration
 
-Currently building my experience toward roles in **Product Management, Business Development, Product Analytics, and technology-driven business roles.**
+Currently exploring opportunities across **Business Development, Product Management, Product Analytics, and technology-driven business roles.**
 
 ---
 
 ## FEATURED PROJECTS
 
-### 🤖 VoiceBot — AI-Powered Voice Assistant
+### 🤖 VoiceBot — Voice Assistant
 
-**Python • NLP • Speech Recognition**
+**Python • Voice Recognition • NLP**
 
-An interactive voice-based assistant developed from ideation through implementation.
+An interactive voice-based assistant developed as an end-to-end software project.
 
 **What I worked on**
 
-- Owned the project from ideation to deployment
-- Explored voice recognition and command responsiveness
-- Conducted user testing and incorporated feedback
-- Worked on improving the interaction experience
-- Explored the intersection of AI, software and user experience
+- Took the project from ideation through implementation
+- Worked on voice recognition and command responsiveness
+- Conducted user testing
+- Iterated on the interaction experience based on feedback
 
-**Focus:** AI • Product Development • User Testing • Python
-
-[View Project →](#)
+**Focus:** `Python` `Voice Recognition` `NLP` `User Testing` `Product Development`
 
 ---
 
@@ -137,101 +90,47 @@ An interactive voice-based assistant developed from ideation through implementat
 
 **HTML • CSS • JavaScript**
 
-A responsive e-commerce interface inspired by core shopping experiences.
+A responsive e-commerce interface focused on product browsing and product-detail experiences.
 
 **What I worked on**
 
-- Designed responsive product browsing interfaces
-- Built product-detail experiences
+- Designed responsive front-end pages
 - Implemented interactive UI components
-- Focused on navigation and usability
-- Explored how interface decisions affect user experience
+- Built product browsing and product-detail flows
+- Focused on usability and interface design
 
-**Focus:** Web Development • UX • Product Thinking
-
-[View Project →](#)
+**Focus:** `HTML` `CSS` `JavaScript` `UI/UX` `Web Development`
 
 ---
 
-### 📊 Market Intelligence Platform
+## LEADERSHIP
 
-**Python • SQL • Data Analytics**
+### UI/UX Design Lead
 
-> 🚧 Currently building
+**Vytoflow Community · I.T.S Engineering College · 2023–2024**
 
-A data-driven platform designed to help business teams understand markets, competitors and potential opportunities.
+Led UI/UX design activities for community projects and collaborated with team members to turn concepts into working digital products.
 
-**Planned capabilities**
-
-- Market segmentation
-- Competitor analysis
-- Customer insights
-- Opportunity identification
-- Data visualization
-- Business recommendations
-
-**Focus:** Business Development • Analytics • Strategy
-
-[Coming Soon →](#)
-
----
-
-### 🎯 Lead Intelligence & Scoring System
-
-**Python • SQL • Analytics**
-
-> 🚧 Currently building
-
-A data-driven system designed to help business development teams prioritize high-potential prospects.
-
-**Planned capabilities**
-
-- Lead qualification
-- Lead scoring
-- Customer segmentation
-- Conversion analysis
-- Pipeline analytics
-- Opportunity prioritization
-
-**Focus:** Business Development • Data • CRM • Analytics
-
-[Coming Soon →](#)
+**Focus:** `Leadership` `UI/UX` `Collaboration` `Product Development`
 
 ---
 
 ## TECHNICAL SKILLS
 
 ### Programming
-
 `Python` `Java` `C++` `C` `JavaScript`
 
-### Data
-
-`SQL` `Database Management` `Data Structures & Algorithms`
+### Data & Engineering
+`SQL` `Database Management` `Data Structures & Algorithms` `OOP` `Computer Networks`
 
 ### Web
-
 `HTML` `CSS` `JavaScript`
 
 ### Product & Design
-
-`UI/UX Design` `Responsive Design` `User Testing` `Product Lifecycle`
+`UI/UX Design` `Responsive Design` `User Testing` `Product Lifecycle` `Agile`
 
 ### Tools
-
 `Git` `GitHub` `VS Code` `Figma` `Canva` `Notion`
-
----
-
-## LEADERSHIP
-
-### UI/UX Design Lead — Vytoflow Community
-
-**I.T.S Engineering College | 2023–2024**
-
-Led UI/UX design activities for community projects, coordinated design work with team members, and contributed to turning concepts into working digital products.
-
-**Focus:** Leadership • UX • Collaboration • Product Development
 
 ---
 
@@ -258,15 +157,102 @@ Completed coursework covering:
 
 ## CURRENTLY EXPLORING
 
-```text
-Product Management
-        ↓
-Business Development
-        ↓
-AI & Data Analytics
-        ↓
-User Research
-        ↓
-Product Strategy
-        ↓
-Building Real Products
+<div align="center">
+
+### PRODUCT MANAGEMENT
+
+Problem Discovery → User Research → Product Strategy → Execution
+
+<br>
+
+### BUSINESS DEVELOPMENT
+
+Market Research → Customer Discovery → Opportunity → Growth
+
+<br>
+
+### AI & DATA
+
+AI Products → Analytics → Experimentation → Insights
+
+</div>
+
+---
+
+## BUILDING NEXT
+
+### 📊 Market Intelligence Platform
+
+**Planned**
+
+Exploring data-driven approaches to market research, competitor analysis, customer insights, and opportunity identification.
+
+---
+
+### 🎯 Lead Intelligence & Scoring System
+
+**Planned**
+
+Exploring how data can help business development teams identify, qualify, and prioritize high-potential prospects.
+
+---
+
+### 🎙️ VoiceBot 2.0
+
+**Planned**
+
+Exploring a more capable voice assistant with improved interaction, task completion, and AI capabilities.
+
+---
+
+## MY APPROACH
+
+<div align="center">
+
+**IDEA**
+
+↓
+
+**RESEARCH**
+
+↓
+
+**BUILD**
+
+↓
+
+**TEST**
+
+↓
+
+**LEARN**
+
+↓
+
+**IMPROVE**
+
+</div>
+
+---
+
+## LET'S CONNECT
+
+<div align="center">
+
+Interested in **Product • Business • Technology • AI • Startups**
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/aditiranjan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:aditiranjan80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<strong>Building products. Learning continuously. Solving real problems.</strong>
+
+</div>
