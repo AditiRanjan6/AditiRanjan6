@@ -12,12 +12,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=900&color=CFFF00&center=true&vCenter=true&width=1000&lines=ADITI+RANJAN;B.TECH+IN+COMPUTER+SCIENCE;BUSINESS+DEVELOPMENT;PRODUCT+MANAGEMENT;ARTIFICIAL+INTELLIGENCE" />
 </h1>
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
 <p>
 <strong>Turning ideas into useful products through technology, research and data.</strong>
 </p>
@@ -38,10 +32,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=CFFF00&style=flat-square&labelColor=111111"/>
+<img
+  src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=CFFF00&style=flat-square&labelColor=111111"
+/>
 
 </div>
---- 
+
+---
 
 # 📜 CERTIFICATIONS
 
@@ -57,29 +54,25 @@
 
 <table>
 <tr>
-<td align="center">
 
+<td align="center">
 <b>PROJECT FOUNDATIONS</b><br>
 Project Initiation<br>
 Project Planning
-
 </td>
 
 <td align="center">
-
 <b>PROJECT EXECUTION</b><br>
 Agile Project Management<br>
 Project Delivery
-
 </td>
 
 <td align="center">
-
 <b>CAPSTONE</b><br>
 Applied Project Management<br>
 Real-world Project Execution
-
 </td>
+
 </tr>
 </table>
 
@@ -93,8 +86,6 @@ Real-world Project Execution
 
 ---
 
----
-
 # 👋 ABOUT
 
 I'm a **Computer Science Engineer** interested in building
@@ -103,29 +94,31 @@ I'm a **Computer Science Engineer** interested in building
 
 My interests span:
 
-<img src="https://img.shields.io/badge/PRODUCT%20MANAGEMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
-<img src="https://img.shields.io/badge/BUSINESS%20DEVELOPMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
-<img src="https://img.shields.io/badge/AI-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
-<img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/PRODUCT%20MANAGEMENT-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/BUSINESS%20DEVELOPMENT-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/AI-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111" />
 
 ### APPROACH
 
 <p>
-<img src="https://img.shields.io/badge/01%20PROBLEM%20DISCOVERY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/01_DISCOVER-CFFF00?style=for-the-badge&labelColor=111111" />
 →
-<img src="https://img.shields.io/badge/02%20RESEARCH-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/02_RESEARCH-CFFF00?style=for-the-badge&labelColor=111111" />
 →
-<img src="https://img.shields.io/badge/03%20DATA%20%26%20ANALYSIS-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/03_ANALYZE-CFFF00?style=for-the-badge&labelColor=111111" />
 →
-<img src="https://img.shields.io/badge/04%20STRATEGY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/04_STRATEGIZE-CFFF00?style=for-the-badge&labelColor=111111" />
 →
-<img src="https://img.shields.io/badge/05%20EXECUTION-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/05_BUILD-CFFF00?style=for-the-badge&labelColor=111111" />
 →
-<img src="https://img.shields.io/badge/06%20MEASUREMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/06_MEASURE-CFFF00?style=for-the-badge&labelColor=111111" />
 </p>
 
 > **Technical understanding + Business thinking + User empathy + Data-driven decisions**
+
+---
 
 # 🎯 FOCUS AREAS
 
@@ -138,7 +131,7 @@ My interests span:
 <img src="https://img.shields.io/badge/PRODUCT-CFFF00?style=for-the-badge&labelColor=111111" />
 </h3>
 
-<p align="justify">
+<p align="left">
 <b>Product Discovery</b><br>
 User Research<br>
 Product Strategy<br>
@@ -154,7 +147,7 @@ Product Analytics
 <img src="https://img.shields.io/badge/BUSINESS-CFFF00?style=for-the-badge&labelColor=111111" />
 </h3>
 
-<p align="justify">
+<p align="left">
 <b>Market Research</b><br>
 Business Development<br>
 Customer Discovery<br>
@@ -170,7 +163,7 @@ Growth Strategy
 <img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111" />
 </h3>
 
-<p align="justify">
+<p align="left">
 <b>Python</b><br>
 Java<br>
 C++<br>
@@ -186,7 +179,7 @@ Web Technologies
 <img src="https://img.shields.io/badge/AI_%26_DATA-CFFF00?style=for-the-badge&labelColor=111111" />
 </h3>
 
-<p align="justify">
+<p align="left">
 <b>AI Products</b><br>
 Data Analytics<br>
 NLP<br>
@@ -198,6 +191,7 @@ Data-Driven Decisions
 
 </tr>
 </table>
+
 ---
 
 # ⭐ FEATURED PROJECTS
@@ -377,7 +371,6 @@ A collection of structured product case studies exploring **how technology produ
 
 ---
 
----
 # 🧠 HOW I APPROACH PROBLEMS
 
 <table>
@@ -551,6 +544,7 @@ Training focused on algorithmic problem solving, data structures and core progra
 </div>
 
 ---
+
 # 📊 GITHUB ACTIVITY
 
 <div align="center">
