@@ -8,35 +8,58 @@
 
 <br><br>
 
-<h1>ADITI RANJAN</h1>
+# ADITI RANJAN
 
-<h3>PRODUCT • BUSINESS • TECHNOLOGY</h3>
+### COMPUTER SCIENCE ENGINEER · PRODUCT · BUSINESS · AI & DATA
 
 <p>
-Computer Science Engineer interested in building technology-driven solutions
-<br>
-at the intersection of <strong>users, business, data and technology.</strong>
+Building at the intersection of
+<strong>technology, users, data and business.</strong>
 </p>
 
 <br>
 
-<a href="[https://www.linkedin.com/in/aditiranjan](https://www.linkedin.com/in/aditi-ranjan-51780b255/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwM6nlDDOTjCfSxsXaVY80g%3D%3D)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 &nbsp;
+
 <a href="mailto:aditiranjan80@gmail.com">
-  <img src="https://img.shields.io/badge/Email-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 &nbsp;
+
 <a href="https://github.com/AditiRanjan6">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" />
 
 </div>
 
 ---
 
-## 🎯 FOCUS AREAS
+# 👋 ABOUT
+
+I'm a **Computer Science Engineer** interested in building technology-driven products that solve meaningful user and business problems.
+
+My interests span:
+
+`Product Management` · `Business Development` · `AI` · `Data Analytics` · `Technology`
+
+I enjoy moving from:
+
+**Problem Discovery → Research → Strategy → Solution → Execution → Measurement**
+
+My goal is to combine technical understanding with business thinking, user empathy and data-driven decision making.
+
+---
+
+# 🎯 FOCUS AREAS
 
 <table>
 <tr>
@@ -57,10 +80,10 @@ Product Analytics
 
 ### BUSINESS
 
-Business Development  
 Market Research  
-Competitive Analysis  
+Business Development  
 Customer Discovery  
+Competitive Analysis  
 Growth Strategy
 
 </td>
@@ -84,7 +107,7 @@ Web Technologies
 AI Products  
 Data Analytics  
 NLP  
-Voice Interfaces  
+Machine Learning  
 Data-Driven Decisions
 
 </td>
@@ -94,44 +117,24 @@ Data-Driven Decisions
 
 ---
 
-## 👋 ABOUT ME
+# ⭐ FEATURED PROJECTS
 
-I'm a **Computer Science Engineer** interested in solving real-world problems through technology.
+> A portfolio focused on solving business problems through **product thinking, data and technology.**
 
-My interests sit at the intersection of:
+<br>
 
-**Technology → Users → Business → Products**
+## 01 · 🤖 AI SALES INTELLIGENCE
 
-I enjoy understanding problems, researching opportunities, working with data, collaborating with teams, and turning ideas into practical solutions.
+### AI Sales & Customer Intelligence Platform
 
-I'm currently exploring opportunities across:
+**Status:** 🟡 In Development
 
-- **Business Development**
-- **Product Management**
-- **Product Analytics**
-- **Technology & AI**
-- **Market Research & Strategy**
+An AI-powered platform designed to help business development teams research prospects, understand companies and identify potential opportunities.
 
----
+### What it explores
 
-# 🚀 PROJECTS
-
-> Building a portfolio around **business problems, product thinking, data and technology.**
-
----
-
-## 01 · AI SALES & CUSTOMER INTELLIGENCE
-
-### 🤖 AI Sales Intelligence Platform
-
-**Planned Project**
-
-An AI-powered platform designed to help business development teams research prospects and identify potential business opportunities.
-
-### Planned capabilities
-
-- Company and industry research
-- Customer / prospect profiling
+- Company & industry research
+- Prospect profiling
 - Lead qualification
 - Opportunity identification
 - AI-generated research summaries
@@ -139,25 +142,27 @@ An AI-powered platform designed to help business development teams research pros
 - Personalized outreach insights
 - Lead scoring
 
-### Planned stack
+### Technology
 
 `Python` `SQL` `LLM API` `FastAPI` `Data Analysis`
 
-**Focus:** `Business Development` `AI` `Market Research` `Product Thinking`
+### Focus
 
-🔗 **Repository:** Coming Soon
+`AI` `Business Development` `Market Research` `Product Thinking`
+
+**Repository:** Coming Soon
 
 ---
 
-## 02 · MARKET INTELLIGENCE
+## 02 · 📊 MARKET INTELLIGENCE
 
-### 📊 Market Intelligence & Opportunity Dashboard
+### Market Intelligence & Opportunity Dashboard
 
-**Planned Project**
+**Status:** 🟡 In Development
 
-A data-driven platform designed to help business teams understand markets, competitors and potential growth opportunities.
+A data-driven platform designed to help businesses understand markets, competitors and potential growth opportunities.
 
-### Planned capabilities
+### What it explores
 
 - Market segmentation
 - Competitor analysis
@@ -168,25 +173,27 @@ A data-driven platform designed to help business teams understand markets, compe
 - Market comparison
 - Business recommendations
 
-### Planned stack
+### Technology
 
-`Python` `SQL` `Pandas` `Data Visualization` `Streamlit`
+`Python` `SQL` `Pandas` `Streamlit` `Data Visualization`
 
-**Focus:** `Market Research` `Business Strategy` `Data Analytics`
+### Focus
 
-🔗 **Repository:** Coming Soon
+`Market Research` `Business Strategy` `Data Analytics`
+
+**Repository:** Coming Soon
 
 ---
 
-## 03 · LEAD INTELLIGENCE
+## 03 · 🎯 LEAD ANALYTICS
 
-### 🎯 Lead Scoring & CRM Analytics
+### Lead Scoring & CRM Analytics
 
-**Planned Project**
+**Status:** 🟡 Planned
 
-A data-driven system designed to help business development teams prioritize high-potential prospects.
+A data-driven system designed to help business development teams identify and prioritize high-potential prospects.
 
-### Planned capabilities
+### What it explores
 
 - Lead qualification
 - Lead scoring
@@ -196,25 +203,27 @@ A data-driven system designed to help business development teams prioritize high
 - Pipeline insights
 - Opportunity prioritization
 
-### Planned stack
+### Technology
 
 `Python` `SQL` `Pandas` `Machine Learning` `Analytics`
 
-**Focus:** `Business Development` `CRM` `Data` `Growth`
+### Focus
 
-🔗 **Repository:** Coming Soon
+`Business Development` `CRM` `Data` `Growth`
+
+**Repository:** Coming Soon
 
 ---
 
-## 04 · AI PRODUCT
+## 04 · 🧠 AI PRODUCT LAB
 
-### 🧠 AI-Powered Productivity Assistant
+### AI-Powered Productivity Assistant
 
-**Planned Project**
+**Status:** 🟡 Planned
 
 A technology product exploring how AI can help users organize information, complete tasks and interact with digital tools through natural language.
 
-### Planned capabilities
+### What it explores
 
 - Natural language interaction
 - Task management
@@ -223,21 +232,23 @@ A technology product exploring how AI can help users organize information, compl
 - User preference learning
 - Productivity analytics
 
-### Planned stack
+### Technology
 
 `Python` `LLM API` `SQL` `API Integration`
 
-**Focus:** `AI Products` `Product Management` `User Experience`
+### Focus
 
-🔗 **Repository:** Coming Soon
+`AI Products` `Product Management` `User Experience`
+
+**Repository:** Coming Soon
 
 ---
 
-## 05 · PRODUCT STRATEGY
+## 05 · 🔎 PRODUCT STRATEGY LAB
 
-### 🔎 Product Discovery & Strategy Lab
+### Product Discovery & Strategy Case Studies
 
-**Planned Project**
+**Status:** 🟡 Building
 
 A collection of product research and strategy case studies focused on real-world technology products.
 
@@ -253,9 +264,64 @@ A collection of product research and strategy case studies focused on real-world
 - Product roadmaps
 - Go-to-market thinking
 
-**Focus:** `Product Strategy` `User Research` `Analytics` `Business`
+### Focus
 
-🔗 **Repository:** Coming Soon
+`Product Strategy` `User Research` `Analytics` `Business`
+
+**Repository:** Coming Soon
+
+---
+
+# 🧠 HOW I APPROACH PROBLEMS
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### 01
+## DISCOVER
+
+Understand the user, market and business problem.
+
+</td>
+
+<td width="20%" align="center">
+
+### 02
+## RESEARCH
+
+Validate assumptions through qualitative and quantitative research.
+
+</td>
+
+<td width="20%" align="center">
+
+### 03
+## DEFINE
+
+Translate insights into a clear opportunity and solution.
+
+</td>
+
+<td width="20%" align="center">
+
+### 04
+## BUILD
+
+Work with technology and design to turn ideas into solutions.
+
+</td>
+
+<td width="20%" align="center">
+
+### 05
+## MEASURE
+
+Analyze outcomes, learn and continuously improve.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -263,27 +329,62 @@ A collection of product research and strategy case studies focused on real-world
 
 ### Programming
 
-`Python` `Java` `C++` `C` `JavaScript`
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
 
-### Data & Analytics
+### Data & Development
 
-`SQL` `Database Management` `Data Analysis`
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 
-### Computer Science
+### Web Technologies
 
-`Data Structures & Algorithms` `OOP` `Computer Networks`
-
-### Web
-
-`HTML` `CSS` `JavaScript`
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### Product & Design
 
-`Product Discovery` `User Research` `UI/UX` `User Testing` `Agile`
+<img src="https://skillicons.dev/icons?i=figma,notion" />
 
-### Tools
+<br>
 
-`Git` `GitHub` `VS Code` `Figma` `Canva` `Notion`
+### Additional Knowledge
+
+`Data Structures & Algorithms`  
+`Object-Oriented Programming`  
+`Computer Networks`  
+`Database Management`  
+`Data Analysis`  
+`UI/UX`  
+`User Testing`  
+`Agile`  
+`Product Discovery`
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AditiRanjan6&show_icons=true&hide_border=true&rank_icon=github"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRanjan6&layout=compact&hide_border=true"
+  height="165"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=AditiRanjan6&hide_border=true"
+  width="70%"
+/>
+
+</div>
 
 ---
 
@@ -293,13 +394,13 @@ A collection of product research and strategy case studies focused on real-world
 
 **Vytoflow Community · I.T.S Engineering College**
 
-**2023 – 2024**
+`2023 – 2024`
 
-Led UI/UX design activities for community projects and collaborated with team members to translate concepts into working digital experiences.
+Led UI/UX design activities for community projects and collaborated with team members to translate concepts into practical digital experiences.
 
-**Focus**
+### Focus
 
-`Leadership` `UI/UX` `Collaboration` `Product Development`
+`Leadership` · `UI/UX` · `Collaboration` · `Product Development`
 
 ---
 
@@ -307,18 +408,17 @@ Led UI/UX design activities for community projects and collaborated with team me
 
 ## Google Project Management: Professional Certificate
 
-**January 2026**
+**Google · Coursera · January 2026**
 
 Completed coursework covering:
 
-- Foundations of Project Management
-- Project Initiation
-- Project Planning
-- Project Execution
-- Agile Project Management
-- Capstone
+`Project Foundations` · `Project Initiation` · `Project Planning` · `Project Execution` · `Agile` · `Capstone`
 
-🔗 **[Verify Certificate](https://certificate-verification.framer.website/coursera.org/api-certificate.v1-pdf-wmfyrllldaurh)**
+<br>
+
+<a href="https://certificate-verification.framer.website/coursera.org/api-certificate.v1-pdf-wmfyrllldaurh">
+  <img src="https://img.shields.io/badge/VERIFY_CERTIFICATE-2E8B9C?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 ---
 
@@ -326,7 +426,9 @@ Completed coursework covering:
 
 **Infosys Springboard**
 
-Training focused on algorithmic problem solving and core data structures.
+Training focused on algorithmic problem solving, data structures and core programming concepts.
+
+`Algorithms` · `Data Structures` · `Problem Solving`
 
 ---
 
@@ -336,110 +438,43 @@ Training focused on algorithmic problem solving and core data structures.
 
 ### PRODUCT
 
-Problem Discovery → Research → Strategy → Execution
+**Problem → Research → Strategy → Execution**
 
 <br>
 
 ### BUSINESS
 
-Market → Customer → Opportunity → Growth
+**Market → Customer → Opportunity → Growth**
 
 <br>
 
 ### DATA & AI
 
-Data → Insight → Experiment → Decision
+**Data → Insight → Experiment → Decision**
 
 </div>
 
 ---
 
-# 🛠️ BUILDING MY PORTFOLIO
+# 🚀 PORTFOLIO BUILDING
 
-My goal is to build projects that demonstrate more than technical implementation.
+I'm building projects that demonstrate more than technical implementation.
 
-Each project will explore:
+Each project is designed to explore:
 
-**Problem**
-
-↓
-
-**Research**
-
-↓
-
-**Solution**
-
-↓
-
-**Technology**
-
-↓
-
-**Testing**
-
-↓
-
-**Data & Insights**
-
-↓
-
-**Iteration**
-
-↓
-
-**Impact**
-
----
-
-# 📈 WHAT I'M WORKING TOWARD
-
-I'm building experience toward roles where I can combine:
-
-**Technical Understanding**
-
-+
-
-**Business Thinking**
-
-+
-
-**User Empathy**
-
-+
-
-**Data & Analytics**
-
-+
-
-**Product Thinking**
-
-to help create products and solutions that deliver measurable value.
-
----
-
-# 🤝 LET'S CONNECT
-
-<div align="center">
-
-Interested in conversations around
-
-**Product • Business Development • AI • Technology • Startups • Data**
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwM6nlDDOTjCfSxsXaVY80g%3D%3D">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="mailto:aditiranjan80@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<strong>Building products. Learning continuously. Solving real problems.</strong>
-
-</div>
+```text
+             PROBLEM
+                ↓
+             RESEARCH
+                ↓
+             INSIGHT
+                ↓
+             SOLUTION
+                ↓
+           TECHNOLOGY
+                ↓
+             TESTING
+                ↓
+          DATA & IMPACT
+                ↓
+            ITERATION
