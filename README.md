@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AditiRanjan6/AditiRanjan6/main/github-banner.png" alt="Aditi Ranjan GitHub Banner" width="100%">
+<img
+  src="https://raw.githubusercontent.com/AditiRanjan6/AditiRanjan6/main/github-banner.png"
+  alt="Aditi Ranjan - GitHub Banner"
+  width="100%"
+/>
 
 <br><br>
 
@@ -9,134 +13,299 @@
 <h3>PRODUCT • BUSINESS • TECHNOLOGY</h3>
 
 <p>
-Computer Science Engineer focused on building technology-driven products
+Computer Science Engineer interested in building technology-driven solutions
 <br>
-that solve <strong>real user and business problems.</strong>
+at the intersection of <strong>users, business, data and technology.</strong>
 </p>
 
-<p>
+<br>
+
 <a href="https://www.linkedin.com/in/aditiranjan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:aditiranjan80@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/AditiRanjan6">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
 </div>
 
 ---
 
-## FOCUS AREAS
+## 🎯 FOCUS AREAS
 
-<div align="center">
+<table>
+<tr>
 
-| 🔵 **PRODUCT** | 🟦 **BUSINESS** | 💻 **TECHNOLOGY** | 🤖 **AI & DATA** |
-|:---:|:---:|:---:|:---:|
-| Product Discovery | Business Development | Python | AI Products |
-| User Research | Market Research | Java | Data Analysis |
-| Product Strategy | Competitive Analysis | C++ | NLP |
-| Product Thinking | Growth Strategy | SQL | Voice Interfaces |
-| User Testing | Customer Discovery | Web Technologies | Product Analytics |
+<td width="25%" align="center">
 
-</div>
+### PRODUCT
 
----
+Product Discovery  
+User Research  
+Product Strategy  
+Prioritization  
+Product Analytics
 
-## ABOUT ME
+</td>
 
-I'm a Computer Science engineer interested in the intersection of **technology, products, and business**.
+<td width="25%" align="center">
 
-My experience includes leading UI/UX initiatives, taking software projects from **ideation through implementation**, conducting user testing, and collaborating across technical and design work.
+### BUSINESS
 
-I'm particularly interested in:
+Business Development  
+Market Research  
+Competitive Analysis  
+Customer Discovery  
+Growth Strategy
 
-- Building useful technology products
-- Understanding users and their problems
-- Business development and market research
-- AI-powered products and data
-- Product strategy and experimentation
-- Cross-functional collaboration
+</td>
 
-Currently exploring opportunities across **Business Development, Product Management, Product Analytics, and technology-driven business roles.**
+<td width="25%" align="center">
 
----
+### TECHNOLOGY
 
-## FEATURED PROJECTS
+Python  
+Java  
+C++  
+SQL  
+Web Technologies
 
-### 🤖 VoiceBot — Voice Assistant
+</td>
 
-**Python • Voice Recognition • NLP**
+<td width="25%" align="center">
 
-An interactive voice-based assistant developed as an end-to-end software project.
+### AI & DATA
 
-**What I worked on**
+AI Products  
+Data Analytics  
+NLP  
+Voice Interfaces  
+Data-Driven Decisions
 
-- Took the project from ideation through implementation
-- Worked on voice recognition and command responsiveness
-- Conducted user testing
-- Iterated on the interaction experience based on feedback
+</td>
 
-**Focus:** `Python` `Voice Recognition` `NLP` `User Testing` `Product Development`
-
----
-
-### 🛒 Amazon Clone — E-commerce Web Application
-
-**HTML • CSS • JavaScript**
-
-A responsive e-commerce interface focused on product browsing and product-detail experiences.
-
-**What I worked on**
-
-- Designed responsive front-end pages
-- Implemented interactive UI components
-- Built product browsing and product-detail flows
-- Focused on usability and interface design
-
-**Focus:** `HTML` `CSS` `JavaScript` `UI/UX` `Web Development`
+</tr>
+</table>
 
 ---
 
-## LEADERSHIP
+## 👋 ABOUT ME
 
-### UI/UX Design Lead
+I'm a **Computer Science Engineer** interested in solving real-world problems through technology.
 
-**Vytoflow Community · I.T.S Engineering College · 2023–2024**
+My interests sit at the intersection of:
 
-Led UI/UX design activities for community projects and collaborated with team members to turn concepts into working digital products.
+**Technology → Users → Business → Products**
 
-**Focus:** `Leadership` `UI/UX` `Collaboration` `Product Development`
+I enjoy understanding problems, researching opportunities, working with data, collaborating with teams, and turning ideas into practical solutions.
+
+I'm currently exploring opportunities across:
+
+- **Business Development**
+- **Product Management**
+- **Product Analytics**
+- **Technology & AI**
+- **Market Research & Strategy**
 
 ---
 
-## TECHNICAL SKILLS
+# 🚀 PROJECTS
+
+> Building a portfolio around **business problems, product thinking, data and technology.**
+
+---
+
+## 01 · AI SALES & CUSTOMER INTELLIGENCE
+
+### 🤖 AI Sales Intelligence Platform
+
+**Planned Project**
+
+An AI-powered platform designed to help business development teams research prospects and identify potential business opportunities.
+
+### Planned capabilities
+
+- Company and industry research
+- Customer / prospect profiling
+- Lead qualification
+- Opportunity identification
+- AI-generated research summaries
+- Competitive intelligence
+- Personalized outreach insights
+- Lead scoring
+
+### Planned stack
+
+`Python` `SQL` `LLM API` `FastAPI` `Data Analysis`
+
+**Focus:** `Business Development` `AI` `Market Research` `Product Thinking`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+## 02 · MARKET INTELLIGENCE
+
+### 📊 Market Intelligence & Opportunity Dashboard
+
+**Planned Project**
+
+A data-driven platform designed to help business teams understand markets, competitors and potential growth opportunities.
+
+### Planned capabilities
+
+- Market segmentation
+- Competitor analysis
+- Industry trends
+- Customer segmentation
+- Opportunity mapping
+- Data visualization
+- Market comparison
+- Business recommendations
+
+### Planned stack
+
+`Python` `SQL` `Pandas` `Data Visualization` `Streamlit`
+
+**Focus:** `Market Research` `Business Strategy` `Data Analytics`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+## 03 · LEAD INTELLIGENCE
+
+### 🎯 Lead Scoring & CRM Analytics
+
+**Planned Project**
+
+A data-driven system designed to help business development teams prioritize high-potential prospects.
+
+### Planned capabilities
+
+- Lead qualification
+- Lead scoring
+- Customer segmentation
+- Conversion analysis
+- Sales funnel analysis
+- Pipeline insights
+- Opportunity prioritization
+
+### Planned stack
+
+`Python` `SQL` `Pandas` `Machine Learning` `Analytics`
+
+**Focus:** `Business Development` `CRM` `Data` `Growth`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+## 04 · AI PRODUCT
+
+### 🧠 AI-Powered Productivity Assistant
+
+**Planned Project**
+
+A technology product exploring how AI can help users organize information, complete tasks and interact with digital tools through natural language.
+
+### Planned capabilities
+
+- Natural language interaction
+- Task management
+- Information retrieval
+- AI-assisted recommendations
+- User preference learning
+- Productivity analytics
+
+### Planned stack
+
+`Python` `LLM API` `SQL` `API Integration`
+
+**Focus:** `AI Products` `Product Management` `User Experience`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+## 05 · PRODUCT STRATEGY
+
+### 🔎 Product Discovery & Strategy Lab
+
+**Planned Project**
+
+A collection of product research and strategy case studies focused on real-world technology products.
+
+### Areas of analysis
+
+- User problems
+- Personas
+- User journeys
+- Competitive analysis
+- Feature prioritization
+- Product metrics
+- Experiment design
+- Product roadmaps
+- Go-to-market thinking
+
+**Focus:** `Product Strategy` `User Research` `Analytics` `Business`
+
+🔗 **Repository:** Coming Soon
+
+---
+
+# 💻 TECHNICAL SKILLS
 
 ### Programming
+
 `Python` `Java` `C++` `C` `JavaScript`
 
-### Data & Engineering
-`SQL` `Database Management` `Data Structures & Algorithms` `OOP` `Computer Networks`
+### Data & Analytics
+
+`SQL` `Database Management` `Data Analysis`
+
+### Computer Science
+
+`Data Structures & Algorithms` `OOP` `Computer Networks`
 
 ### Web
+
 `HTML` `CSS` `JavaScript`
 
 ### Product & Design
-`UI/UX Design` `Responsive Design` `User Testing` `Product Lifecycle` `Agile`
+
+`Product Discovery` `User Research` `UI/UX` `User Testing` `Agile`
 
 ### Tools
+
 `Git` `GitHub` `VS Code` `Figma` `Canva` `Notion`
 
 ---
 
-## CERTIFICATIONS
+# 🧩 LEADERSHIP
 
-### Google Project Management: Professional Certificate
+## UI/UX Design Lead
+
+**Vytoflow Community · I.T.S Engineering College**
+
+**2023 – 2024**
+
+Led UI/UX design activities for community projects and collaborated with team members to translate concepts into working digital experiences.
+
+**Focus**
+
+`Leadership` `UI/UX` `Collaboration` `Product Development`
+
+---
+
+# 📜 CERTIFICATIONS
+
+## Google Project Management: Professional Certificate
 
 **January 2026**
 
@@ -149,106 +318,124 @@ Completed coursework covering:
 - Agile Project Management
 - Capstone
 
-### Data Structures & Algorithms
+🔗 **[Verify Certificate](https://certificate-verification.framer.website/coursera.org/api-certificate.v1-pdf-wmfyrllldaurh)**
+
+---
+
+## Data Structures & Algorithms
 
 **Infosys Springboard**
 
+Training focused on algorithmic problem solving and core data structures.
+
 ---
 
-## CURRENTLY EXPLORING
+# 🔬 CURRENTLY EXPLORING
 
 <div align="center">
 
-### PRODUCT MANAGEMENT
+### PRODUCT
 
-Problem Discovery → User Research → Product Strategy → Execution
-
-<br>
-
-### BUSINESS DEVELOPMENT
-
-Market Research → Customer Discovery → Opportunity → Growth
+Problem Discovery → Research → Strategy → Execution
 
 <br>
 
-### AI & DATA
+### BUSINESS
 
-AI Products → Analytics → Experimentation → Insights
+Market → Customer → Opportunity → Growth
+
+<br>
+
+### DATA & AI
+
+Data → Insight → Experiment → Decision
 
 </div>
 
 ---
 
-## BUILDING NEXT
+# 🛠️ BUILDING MY PORTFOLIO
 
-### 📊 Market Intelligence Platform
+My goal is to build projects that demonstrate more than technical implementation.
 
-**Planned**
+Each project will explore:
 
-Exploring data-driven approaches to market research, competitor analysis, customer insights, and opportunity identification.
+**Problem**
+
+↓
+
+**Research**
+
+↓
+
+**Solution**
+
+↓
+
+**Technology**
+
+↓
+
+**Testing**
+
+↓
+
+**Data & Insights**
+
+↓
+
+**Iteration**
+
+↓
+
+**Impact**
 
 ---
 
-### 🎯 Lead Intelligence & Scoring System
+# 📈 WHAT I'M WORKING TOWARD
 
-**Planned**
+I'm building experience toward roles where I can combine:
 
-Exploring how data can help business development teams identify, qualify, and prioritize high-potential prospects.
+**Technical Understanding**
+
++
+
+**Business Thinking**
+
++
+
+**User Empathy**
+
++
+
+**Data & Analytics**
+
++
+
+**Product Thinking**
+
+to help create products and solutions that deliver measurable value.
 
 ---
 
-### 🎙️ VoiceBot 2.0
-
-**Planned**
-
-Exploring a more capable voice assistant with improved interaction, task completion, and AI capabilities.
-
----
-
-## MY APPROACH
+# 🤝 LET'S CONNECT
 
 <div align="center">
 
-**IDEA**
+Interested in conversations around
 
-↓
-
-**RESEARCH**
-
-↓
-
-**BUILD**
-
-↓
-
-**TEST**
-
-↓
-
-**LEARN**
-
-↓
-
-**IMPROVE**
-
-</div>
-
----
-
-## LET'S CONNECT
-
-<div align="center">
-
-Interested in **Product • Business • Technology • AI • Startups**
+**Product • Business Development • AI • Technology • Startups • Data**
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/aditiranjan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+&nbsp;
+
 <a href="mailto:aditiranjan80@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
