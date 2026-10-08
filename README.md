@@ -43,285 +43,428 @@ Building at the intersection of
 
 </div>
 
+--- 
+
+# 📜 CERTIFICATIONS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GOOGLE_PROJECT_MANAGEMENT-PROFESSIONAL_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=111111" />
+
+<br><br>
+
+<b>Google · Coursera · January 2026</b>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+
+<b>PROJECT FOUNDATIONS</b><br>
+Project Initiation<br>
+Project Planning
+
+</td>
+
+<td align="center">
+
+<b>PROJECT EXECUTION</b><br>
+Agile Project Management<br>
+Project Delivery
+
+</td>
+
+<td align="center">
+
+<b>CAPSTONE</b><br>
+Applied Project Management<br>
+Real-world Project Execution
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://certificate-verification.framer.website/coursera.org/api-certificate.v1-pdf-wmfyrllldaurh">
+<img src="https://img.shields.io/badge/✓_VERIFY_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=111111" />
+</a>
+
+</div>
+
+---
+
 ---
 
 # 👋 ABOUT
 
-I'm a **Computer Science Engineer** interested in building technology-driven products that solve meaningful user and business problems.
+I'm a **Computer Science Engineer** interested in building
+**technology-driven products** that solve meaningful
+**user and business problems.**
 
 My interests span:
 
-`Product Management` · `Business Development` · `AI` · `Data Analytics` · `Technology`
+<img src="https://img.shields.io/badge/PRODUCT%20MANAGEMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/BUSINESS%20DEVELOPMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/AI-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+<img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
 
-I enjoy moving from:
+### APPROACH
 
-**Problem Discovery → Research → Strategy → Solution → Execution → Measurement**
+<p>
+<img src="https://img.shields.io/badge/01%20PROBLEM%20DISCOVERY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+→
+<img src="https://img.shields.io/badge/02%20RESEARCH-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+→
+<img src="https://img.shields.io/badge/03%20DATA%20%26%20ANALYSIS-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+→
+<img src="https://img.shields.io/badge/04%20STRATEGY-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+→
+<img src="https://img.shields.io/badge/05%20EXECUTION-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+→
+<img src="https://img.shields.io/badge/06%20MEASUREMENT-CFFF00?style=for-the-badge&labelColor=111111&color=CFFF00" />
+</p>
 
-My goal is to combine technical understanding with business thinking, user empathy and data-driven decision making.
-
----
+> **Technical understanding + Business thinking + User empathy + Data-driven decisions**
 
 # 🎯 FOCUS AREAS
 
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### PRODUCT
+<h3 align="center">
+<img src="https://img.shields.io/badge/PRODUCT-CFFF00?style=for-the-badge&labelColor=111111" />
+</h3>
 
-Product Discovery  
-User Research  
-Product Strategy  
-Prioritization  
+<p align="justify">
+<b>Product Discovery</b><br>
+User Research<br>
+Product Strategy<br>
+Prioritization<br>
 Product Analytics
+</p>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### BUSINESS
+<h3 align="center">
+<img src="https://img.shields.io/badge/BUSINESS-CFFF00?style=for-the-badge&labelColor=111111" />
+</h3>
 
-Market Research  
-Business Development  
-Customer Discovery  
-Competitive Analysis  
+<p align="justify">
+<b>Market Research</b><br>
+Business Development<br>
+Customer Discovery<br>
+Competitive Analysis<br>
 Growth Strategy
+</p>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### TECHNOLOGY
+<h3 align="center">
+<img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111" />
+</h3>
 
-Python  
-Java  
-C++  
-SQL  
+<p align="justify">
+<b>Python</b><br>
+Java<br>
+C++<br>
+SQL<br>
 Web Technologies
+</p>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" valign="top">
 
-### AI & DATA
+<h3 align="center">
+<img src="https://img.shields.io/badge/AI_%26_DATA-CFFF00?style=for-the-badge&labelColor=111111" />
+</h3>
 
-AI Products  
-Data Analytics  
-NLP  
-Machine Learning  
+<p align="justify">
+<b>AI Products</b><br>
+Data Analytics<br>
+NLP<br>
+Machine Learning<br>
 Data-Driven Decisions
+</p>
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 # ⭐ FEATURED PROJECTS
 
-> A portfolio focused on solving business problems through **product thinking, data and technology.**
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/FOCUS-BUSINESS_%26_AI-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/APPROACH-PROBLEM_%E2%86%92_DATA_%E2%86%92_SOLUTION-CFFF00?style=for-the-badge&labelColor=111111" />
+
+</div>
 
 <br>
 
-## 01 · 🤖 AI SALES INTELLIGENCE
+> A portfolio of **business-focused technology products** exploring AI, data, customer intelligence, product strategy and growth.
+
+---
+
+## 01 · AI SALES INTELLIGENCE
 
 ### AI Sales & Customer Intelligence Platform
 
-**Status:** 🟡 In Development
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-CFFF00?style=flat-square&labelColor=111111" />
 
-An AI-powered platform designed to help business development teams research prospects, understand companies and identify potential opportunities.
+A product concept designed to help **Business Development teams research prospects faster, understand customer needs and identify high-value opportunities.**
 
-### What it explores
+**Core capabilities**
 
-- Company & industry research
-- Prospect profiling
+- Prospect & company intelligence
+- Industry & competitor research
 - Lead qualification
 - Opportunity identification
 - AI-generated research summaries
-- Competitive intelligence
 - Personalized outreach insights
 - Lead scoring
 
-### Technology
+**Stack**
 
-`Python` `SQL` `LLM API` `FastAPI` `Data Analysis`
+`Python` `SQL` `FastAPI` `LLM API` `Data Analysis`
 
-### Focus
+**Product Lens**
 
-`AI` `Business Development` `Market Research` `Product Thinking`
+`AI` `Business Development` `Customer Intelligence` `Market Research`
 
-**Repository:** Coming Soon
+**Repository:** `COMING SOON`
 
 ---
 
-## 02 · 📊 MARKET INTELLIGENCE
+## 02 · MARKET INTELLIGENCE
 
 ### Market Intelligence & Opportunity Dashboard
 
-**Status:** 🟡 In Development
+<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-CFFF00?style=flat-square&labelColor=111111" />
 
-A data-driven platform designed to help businesses understand markets, competitors and potential growth opportunities.
+A data-driven platform designed to help businesses **understand markets, evaluate competitors and uncover potential growth opportunities.**
 
-### What it explores
+**Core capabilities**
 
 - Market segmentation
-- Competitor analysis
-- Industry trends
+- Competitor intelligence
+- Industry trend analysis
 - Customer segmentation
 - Opportunity mapping
-- Data visualization
 - Market comparison
+- Interactive data visualization
 - Business recommendations
 
-### Technology
+**Stack**
 
 `Python` `SQL` `Pandas` `Streamlit` `Data Visualization`
 
-### Focus
+**Product Lens**
 
-`Market Research` `Business Strategy` `Data Analytics`
+`Market Research` `Business Strategy` `Analytics` `Growth`
 
-**Repository:** Coming Soon
+**Repository:** `COMING SOON`
 
 ---
 
-## 03 · 🎯 LEAD ANALYTICS
+## 03 · LEAD ANALYTICS
 
 ### Lead Scoring & CRM Analytics
 
-**Status:** 🟡 Planned
+<img src="https://img.shields.io/badge/STATUS-PLANNED-CFFF00?style=flat-square&labelColor=111111" />
 
-A data-driven system designed to help business development teams identify and prioritize high-potential prospects.
+A data-driven system focused on helping BD teams **prioritize prospects based on lead quality, conversion potential and pipeline signals.**
 
-### What it explores
+**Core capabilities**
 
 - Lead qualification
 - Lead scoring
 - Customer segmentation
 - Conversion analysis
 - Sales funnel analysis
-- Pipeline insights
+- Pipeline intelligence
 - Opportunity prioritization
 
-### Technology
+**Stack**
 
 `Python` `SQL` `Pandas` `Machine Learning` `Analytics`
 
-### Focus
+**Product Lens**
 
 `Business Development` `CRM` `Data` `Growth`
 
-**Repository:** Coming Soon
+**Repository:** `COMING SOON`
 
 ---
 
-## 04 · 🧠 AI PRODUCT LAB
+## 04 · AI PRODUCT LAB
 
 ### AI-Powered Productivity Assistant
 
-**Status:** 🟡 Planned
+<img src="https://img.shields.io/badge/STATUS-PLANNED-CFFF00?style=flat-square&labelColor=111111" />
 
-A technology product exploring how AI can help users organize information, complete tasks and interact with digital tools through natural language.
+An AI product concept exploring how natural-language interfaces can help users **organize information, complete tasks and make better decisions.**
 
-### What it explores
+**Core capabilities**
 
-- Natural language interaction
+- Natural-language interaction
 - Task management
 - Information retrieval
 - AI-assisted recommendations
-- User preference learning
+- Preference learning
 - Productivity analytics
 
-### Technology
+**Stack**
 
 `Python` `LLM API` `SQL` `API Integration`
 
-### Focus
+**Product Lens**
 
-`AI Products` `Product Management` `User Experience`
+`AI Products` `Product Management` `UX` `Automation`
 
-**Repository:** Coming Soon
+**Repository:** `COMING SOON`
 
 ---
 
-## 05 · 🔎 PRODUCT STRATEGY LAB
+## 05 · PRODUCT STRATEGY LAB
 
 ### Product Discovery & Strategy Case Studies
 
-**Status:** 🟡 Building
+<img src="https://img.shields.io/badge/STATUS-BUILDING-CFFF00?style=flat-square&labelColor=111111" />
 
-A collection of product research and strategy case studies focused on real-world technology products.
+A collection of structured product case studies exploring **how technology products are researched, positioned, prioritized and improved.**
 
-### Areas of analysis
+**Case study framework**
 
-- User problems
-- Personas
-- User journeys
-- Competitive analysis
+- User & problem discovery
+- Personas & user journeys
+- Market & competitor analysis
+- Opportunity sizing
 - Feature prioritization
 - Product metrics
 - Experiment design
 - Product roadmaps
-- Go-to-market thinking
+- Go-to-market strategy
 
-### Focus
+**Product Lens**
 
-`Product Strategy` `User Research` `Analytics` `Business`
+`Product Strategy` `User Research` `Analytics` `Prioritization` `Business`
 
-**Repository:** Coming Soon
+**Repository:** `COMING SOON`
 
 ---
 
+<div align="center">
+
+### `BUILD → TEST → LEARN → IMPROVE`
+
+<img src="https://img.shields.io/badge/PRODUCT-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/DATA-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/AI-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/BUSINESS-CFFF00?style=for-the-badge&labelColor=111111" />
+
+</div>
+
+---
+
+---
 # 🧠 HOW I APPROACH PROBLEMS
 
 <table>
 <tr>
-<td width="20%" align="center">
 
-### 01
-## DISCOVER
+<td width="20%" valign="top">
 
-Understand the user, market and business problem.
+<p align="center">
+<img src="https://img.shields.io/badge/01-CFFF00?style=for-the-badge&labelColor=111111" />
+</p>
 
-</td>
+<h3 align="center">DISCOVER</h3>
 
-<td width="20%" align="center">
-
-### 02
-## RESEARCH
-
-Validate assumptions through qualitative and quantitative research.
-
-</td>
-
-<td width="20%" align="center">
-
-### 03
-## DEFINE
-
-Translate insights into a clear opportunity and solution.
+<p align="left">
+• Understand the user<br>
+• Identify the market context<br>
+• Define the business problem
+</p>
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" valign="top">
 
-### 04
-## BUILD
+<p align="center">
+<img src="https://img.shields.io/badge/02-CFFF00?style=for-the-badge&labelColor=111111" />
+</p>
 
-Work with technology and design to turn ideas into solutions.
+<h3 align="center">RESEARCH</h3>
+
+<p align="left">
+• Validate assumptions<br>
+• Conduct user research<br>
+• Analyze qualitative & quantitative data
+</p>
+
+</td>
+
+<td width="20%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/03-CFFF00?style=for-the-badge&labelColor=111111" />
+</p>
+
+<h3 align="center">DEFINE</h3>
+
+<p align="left">
+• Synthesize insights<br>
+• Identify the opportunity<br>
+• Define the solution direction
+</p>
 
 </td>
 
-<td width="20%" align="center">
+<td width="20%" valign="top">
 
-### 05
-## MEASURE
+<p align="center">
+<img src="https://img.shields.io/badge/04-CFFF00?style=for-the-badge&labelColor=111111" />
+</p>
 
-Analyze outcomes, learn and continuously improve.
+<h3 align="center">BUILD</h3>
+
+<p align="left">
+• Translate ideas into solutions<br>
+• Work with technology & design<br>
+• Iterate through feedback
+</p>
 
 </td>
+
+<td width="20%" valign="top">
+
+<p align="center">
+<img src="https://img.shields.io/badge/05-CFFF00?style=for-the-badge&labelColor=111111" />
+</p>
+
+<h3 align="center">MEASURE</h3>
+
+<p align="left">
+• Analyze outcomes<br>
+• Measure impact<br>
+• Learn and continuously improve
+</p>
+
+</td>
+
 </tr>
 </table>
 
@@ -361,35 +504,6 @@ Analyze outcomes, learn and continuously improve.
 
 ---
 
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AditiRanjan6&show_icons=true&hide_border=true&rank_icon=github"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRanjan6&layout=compact&hide_border=true"
-  height="165"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=AditiRanjan6&hide_border=true"
-  width="70%"
-/>
-
-</div>
-
----
-
 # 🧩 LEADERSHIP
 
 ## UI/UX Design Lead
@@ -403,24 +517,6 @@ Led UI/UX design activities for community projects and collaborated with team me
 ### Focus
 
 `Leadership` · `UI/UX` · `Collaboration` · `Product Development`
-
----
-
-# 📜 CERTIFICATIONS
-
-## Google Project Management: Professional Certificate
-
-**Google · Coursera · January 2026**
-
-Completed coursework covering:
-
-`Project Foundations` · `Project Initiation` · `Project Planning` · `Project Execution` · `Agile` · `Capstone`
-
-<br>
-
-<a href="https://certificate-verification.framer.website/coursera.org/api-certificate.v1-pdf-wmfyrllldaurh">
-  <img src="https://img.shields.io/badge/VERIFY_CERTIFICATE-2E8B9C?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
 
 ---
 
@@ -457,26 +553,40 @@ Training focused on algorithmic problem solving, data structures and core progra
 </div>
 
 ---
+# 📊 GITHUB ACTIVITY
 
-# 🚀 PORTFOLIO BUILDING
+<div align="center">
 
-I'm building projects that demonstrate more than technical implementation.
+<img src="https://github-readme-stats.vercel.app/api?username=AditiRanjan6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&icon_color=CFFF00&ring_color=CFFF00&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
 
-Each project is designed to explore:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRanjan6&layout=donut&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&langs_count=6" width="49%" />
 
-```text
-             PROBLEM
-                ↓
-             RESEARCH
-                ↓
-             INSIGHT
-                ↓
-             SOLUTION
-                ↓
-           TECHNOLOGY
-                ↓
-             TESTING
-                ↓
-          DATA & IMPACT
-                ↓
-            ITERATION
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AditiRanjan6&hide_border=true&background=0D1117&ring=CFFF00&fire=CFFF00&currStreakLabel=CFFF00&sideLabels=CFFF00&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiRanjan6&bg_color=0D1117&color=CFFF00&line=CFFF00&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `SYSTEM STATUS`
+
+<img src="https://img.shields.io/badge/PROFILE-ACTIVE-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-CFFF00?style=for-the-badge&labelColor=111111" />
+
+</div>
