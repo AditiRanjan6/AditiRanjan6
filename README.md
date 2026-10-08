@@ -9,7 +9,7 @@
 <br><br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=ADITI+RANJAN;BTECH+IN+COMPUTER+SCIENCE;BUSSINESS+DEVELOPMENT;PRODUCT+MANAGEMENT;ARTIFICIAL+INTELIGENCE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=900&color=CFFF00&center=true&vCenter=true&width=1000&lines=ADITI+RANJAN;B.TECH+IN+COMPUTER+SCIENCE;BUSINESS+DEVELOPMENT;PRODUCT+MANAGEMENT;ARTIFICIAL+INTELLIGENCE" />
 </h1>
 
 ### COMPUTER SCIENCE ENGINEER · PRODUCT · BUSINESS · AI & DATA
