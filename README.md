@@ -39,7 +39,7 @@ Building at the intersection of
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=0A66C2&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=CFFF00&style=flat-square" />
 
 </div>
 
