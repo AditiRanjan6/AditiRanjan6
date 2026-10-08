@@ -12,34 +12,46 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=900&color=CFFF00&center=true&vCenter=true&width=1000&lines=ADITI+RANJAN;B.TECH+IN+COMPUTER+SCIENCE;BUSINESS+DEVELOPMENT;PRODUCT+MANAGEMENT;ARTIFICIAL+INTELLIGENCE" />
 </h1>
 
-### COMPUTER SCIENCE ENGINEER · PRODUCT · BUSINESS · AI & DATA
+<div align="center">
+
+<h2>COMPUTER SCIENCE ENGINEER · PRODUCT · BUSINESS · AI & DATA</h2>
 
 <p>
-Building at the intersection of
-<strong>technology, users, data and business.</strong>
+<strong>Building at the intersection of technology, users, data and business.</strong>
 </p>
 
 <br>
 
+<img src="https://img.shields.io/badge/PRODUCT-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/BUSINESS-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/AI_%26_DATA-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/TECHNOLOGY-CFFF00?style=for-the-badge&labelColor=111111" />
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 &nbsp;
 
 <a href="mailto:aditiranjan80@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-2E8B9C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 &nbsp;
 
 <a href="https://github.com/AditiRanjan6">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=CFFF00&style=flat-square" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-CFFF00?style=for-the-badge&labelColor=111111" />
 
 </div>
 
