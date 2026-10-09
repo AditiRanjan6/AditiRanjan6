@@ -259,13 +259,13 @@ Data-Driven Decisions
 
 <img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=111111" />
 <img src="https://img.shields.io/badge/FOCUS-BUSINESS_%26_AI-CFFF00?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/APPROACH-PROBLEM_%E2%86%92_DATA_%E2%86%92_SOLUTION-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/STATUS-DEPLOYED-46E3B7?style=for-the-badge&labelColor=111111" />
 
 </div>
 
 <br>
 
-> A portfolio of **business-focused technology products** exploring AI, data, customer intelligence, product strategy and growth.
+> Building business-focused technology products at the intersection of AI, data, customer intelligence and growth.
 
 ---
 
@@ -273,29 +273,48 @@ Data-Driven Decisions
 
 ### AI Sales & Customer Intelligence Platform
 
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-CFFF00?style=flat-square&labelColor=111111" />
+<div align="center">
 
-A product concept designed to help **Business Development teams research prospects faster, understand customer needs and identify high-value opportunities.**
+[![Live Dashboard](https://img.shields.io/badge/OPEN-LIVE_DASHBOARD-CFFF00?style=for-the-badge&labelColor=111111)](https://ai-sales-intelligence-51hp.onrender.com/dashboard)
 
-**Core capabilities**
+[![GitHub Repository](https://img.shields.io/badge/VIEW-SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&labelColor=111111)](https://github.com/AditiRanjan6/ai-sales-intelligence)
 
-- Prospect & company intelligence
-- Industry & competitor research
-- Lead qualification
-- Opportunity identification
-- AI-generated research summaries
-- Personalized outreach insights
-- Lead scoring
+[![API Documentation](https://img.shields.io/badge/EXPLORE-API_DOCS-46E3B7?style=for-the-badge&labelColor=111111)](https://ai-sales-intelligence-51hp.onrender.com/docs)
 
-**Stack**
+</div>
 
-`Python` `SQL` `FastAPI` `LLM API` `Data Analysis`
+<br>
 
-**Product Lens**
+<div align="center">
 
-`AI` `Business Development` `Customer Intelligence` `Market Research`
+<a href="https://ai-sales-intelligence-51hp.onrender.com/dashboard">
+<img src="project1.png" alt="AI Sales Intelligence Platform dashboard" width="100%" />
+</a>
 
-**Repository:** `COMING SOON`
+</div>
+
+A sales intelligence platform that helps Business Development teams prioritize prospects, monitor pipeline performance and identify high-value opportunities through data-driven insights.
+
+**Core Features**
+
+- Lead scoring and qualification
+- Hot lead identification and prioritization
+- Sales pipeline and conversion analytics
+- CSV lead import with validation and preview
+- Rule-based sales recommendations
+- Interactive dashboard and lead-level insights
+
+**Tech Stack**
+
+`Python` `FastAPI` `SQLite` `Jinja2` `HTML` `CSS` `JavaScript`
+
+**Project Links**
+
+- **Live Dashboard:** https://ai-sales-intelligence-51hp.onrender.com/dashboard
+- **GitHub Repository:** https://github.com/AditiRanjan6/ai-sales-intelligence
+- **API Documentation:** https://ai-sales-intelligence-51hp.onrender.com/docs
+
+<sub>Deployed on Render. The free instance may take a short time to wake up after inactivity. Uses fictional demo lead data and rule-based recommendations.</sub>
 
 ---
 
