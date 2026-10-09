@@ -39,16 +39,75 @@
 </div>
 
 ---
-
 # 📜 CERTIFICATIONS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GOOGLE_PROJECT_MANAGEMENT-PROFESSIONAL_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=111111" />
+<!-- INFOSYS CERTIFICATE -->
+
+<img src="https://img.shields.io/badge/INFOSYS_SPRINGBOARD_|_DATA_STRUCTURES_AND_ALGORITHMS_USING_JAVA-CFFF00?style=for-the-badge&labelColor=CFFF00&color=CFFF00" />
+
+<br><br>
+
+<b>Infosys Springboard · December 2024</b>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/AditiRanjan6/AditiRanjan6/main/cert1.png"
+  alt="Aditi Ranjan - Infosys Data Structures and Algorithms Using Java Certificate"
+  width="850"
+/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center">
+<b>DATA STRUCTURES</b><br>
+Core Data Structures<br>
+Programming Concepts
+</td>
+
+<td align="center">
+<b>ALGORITHMS</b><br>
+Algorithmic Problem Solving<br>
+Java Programming
+</td>
+
+<td align="center">
+<b>COURSE COMPLETION</b><br>
+December 7, 2024<br>
+Course Completion Certificate
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://verify.onwingspan.com/">
+<img src="https://img.shields.io/badge/✓_VERIFY_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=111111" />
+</a>
+
+<br><br><br><br>
+
+<!-- GOOGLE CERTIFICATE -->
+
+<img src="https://img.shields.io/badge/GOOGLE_PROJECT_MANAGEMENT_|_PROFESSIONAL_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=CFFF00&color=CFFF00" />
 
 <br><br>
 
 <b>Google · Coursera · January 2026</b>
+
+<br><br>
+
+<img
+  src="https://raw.githubusercontent.com/AditiRanjan6/AditiRanjan6/main/cert2.png"
+  alt="Aditi Ranjan - Google Project Management Professional Certificate"
+  width="850"
+/>
 
 <br><br>
 
