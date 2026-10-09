@@ -627,25 +627,17 @@ Training focused on algorithmic problem solving, data structures and core progra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AditiRanjan6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&icon_color=CFFF00&ring_color=CFFF00&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AditiRanjan6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&icon_color=CFFF00&ring_color=CFFF00&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRanjan6&layout=donut&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&langs_count=6" width="49%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AditiRanjan6&hide_border=true&background=0D1117&ring=CFFF00&fire=CFFF00&currStreakLabel=CFFF00&sideLabels=CFFF00&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiRanjan6&layout=donut&hide_border=true&bg_color=0D1117&title_color=CFFF00&text_color=FFFFFF&langs_count=6&exclude_repo=github-readme-stats" width="49%" alt="Most Used Languages" />
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiRanjan6&bg_color=0D1117&color=CFFF00&line=CFFF00&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" />
+<img src="https://streak-stats.demolab.com?user=AditiRanjan6&hide_border=true&background=0D1117&ring=CFFF00&fire=CFFF00&currStreakLabel=CFFF00&sideLabels=CFFF00&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -655,8 +647,12 @@ Training focused on algorithmic problem solving, data structures and core progra
 
 ### `SYSTEM STATUS`
 
-<img src="https://img.shields.io/badge/PROFILE-ACTIVE-CFFF00?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-CFFF00?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/PROFILE-ACTIVE-CFFF00?style=for-the-badge&labelColor=0D1117" alt="Profile Active" />
+<img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=0D1117" alt="Building Products" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20DATA-CFFF00?style=for-the-badge&labelColor=0D1117" alt="AI and Data Focus" />
+
+<br/><br/>
+
+<sub>Building practical software • Exploring AI & Data • Learning by shipping</sub>
 
 </div>
