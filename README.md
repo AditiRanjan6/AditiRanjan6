@@ -324,11 +324,9 @@ A sales intelligence platform that helps Business Development teams prioritize p
 
 <div align="center">
 
-[![Live Dashboard](https://img.shields.io/badge/OPEN-LIVE_DASHBOARD-CFFF00?style=for-the-badge&labelColor=111111)](https://market-intelligence-dashboard-590f.onrender.com/)
+[![Live Dashboard](https://img.shields.io/badge/OPEN-LIVE_DASHBOARD-CFFF00?style=for-the-badge&labelColor=111111)](https://market-intelligence-dashboard-590f.onrender.com)
 
 [![GitHub Repository](https://img.shields.io/badge/VIEW-SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&labelColor=111111)](https://github.com/AditiRanjan6/market-intelligence-dashboard)
-
-[![API Documentation](https://img.shields.io/badge/EXPLORE-API_DOCS-46E3B7?style=for-the-badge&labelColor=111111)](https://market-intelligence-dashboard-590f.onrender.com/docs)
 
 </div>
 
@@ -336,24 +334,25 @@ A sales intelligence platform that helps Business Development teams prioritize p
 
 <div align="center">
 
-<a href="https://market-intelligence-dashboard-590f.onrender.com/">
+<a href="https://market-intelligence-dashboard-590f.onrender.com">
 <img src="project2.png" alt="Market Intelligence and Opportunity Dashboard" width="100%" />
 </a>
 
 </div>
 
-A market intelligence platform that helps businesses analyze industry trends, compare competitors, evaluate growth opportunities and turn structured data into actionable business insights.
+A market intelligence platform designed to help businesses explore market trends, compare competitors, evaluate potential opportunities, and make data-informed strategic decisions through interactive visualizations and explainable scoring.
 
 **Core Features**
 
-- Market overview with interactive KPIs and visualizations
-- Market segmentation and industry trend analysis
-- Competitor intelligence and comparative analysis
-- Opportunity scoring with explainable factors and ranked recommendations
-- CSV data import with validation, preview and error reporting
-- Downloadable CSV template for structured data preparation
-- Interactive charts, search and data filters
-- Responsive dashboard for market exploration and business analysis
+- Market overview with key performance indicators
+- Interactive quarterly market trend analysis and range filtering
+- Competitor profiles, search, filtering, and comparison charts
+- Opportunity scoring based on documented weighted factors
+- Ranked opportunities with category filters and sorting
+- Business recommendations and opportunity insights
+- CSV data import with validation, error reporting, and data preview
+- CSV template download, upload size limits, and row validation
+- Responsive dashboard with clearly labelled synthetic demo data
 
 **Tech Stack**
 
@@ -361,12 +360,10 @@ A market intelligence platform that helps businesses analyze industry trends, co
 
 **Project Links**
 
-- **Live Dashboard:** https://market-intelligence-dashboard-590f.onrender.com/
+- **Live Dashboard:** https://market-intelligence-dashboard-590f.onrender.com
 - **GitHub Repository:** https://github.com/AditiRanjan6/market-intelligence-dashboard
-- **API Documentation:** https://market-intelligence-dashboard-590f.onrender.com/docs
-- **LinkedIn:** https://www.linkedin.com/in/aditi-ranjan-51780b255/
 
-<sub>Built by Aditi Ranjan. Deployed on Render. The free instance may take a short time to wake up after inactivity. Market figures and competitor profiles use synthetic demonstration data and are not verified real-world research.</sub>
+<sub>Deployed on Render. The free instance may take a short time to wake up after inactivity. Market figures and competitor profiles use fictional synthetic demo data and should not be interpreted as verified real-world intelligence.</sub>
 ---
 
 ## 03 · LEAD ANALYTICS
