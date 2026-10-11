@@ -253,14 +253,6 @@ Data-Driven Decisions
 
 # ⭐ FEATURED PROJECTS
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILDING-PRODUCTS-CFFF00?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/FOCUS-BUSINESS_%26_AI-CFFF00?style=for-the-badge&labelColor=111111" />
-<img src="https://img.shields.io/badge/STATUS-DEPLOYED-46E3B7?style=for-the-badge&labelColor=111111" />
-
-</div>
-
 <br>
 
 > Building business-focused technology products at the intersection of AI, data, customer intelligence and growth.
