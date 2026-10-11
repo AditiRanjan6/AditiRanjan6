@@ -179,7 +179,7 @@ My interests span:
 
 ---
 
-# 🎯 FOCUS AREAS
+# 🎯 FOCUSED LEARNING AREAS
 
 <table>
 <tr>
@@ -225,7 +225,6 @@ Growth Strategy
 <p align="left">
 <b>Python</b><br>
 Java<br>
-C++<br>
 SQL<br>
 Web Technologies
 </p>
@@ -242,7 +241,6 @@ Web Technologies
 <b>AI Products</b><br>
 Data Analytics<br>
 NLP<br>
-Machine Learning<br>
 Data-Driven Decisions
 </p>
 
