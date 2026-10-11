@@ -281,15 +281,23 @@ Data-Driven Decisions
 
 </div>
 
-A sales intelligence platform that helps Business Development teams prioritize prospects, monitor pipeline performance and identify high-value opportunities through data-driven insights.
+A sales intelligence dashboard designed to help Business Development teams prioritize leads, track performance, and identify promising sales opportunities.
+
+**🎯 Problem → Solution**
+
+- **Scattered lead data** → Centralized lead tracking and pipeline analytics.
+- **Unclear sales priorities** → Rule-based lead scoring and hot lead identification.
+- **Limited performance visibility** → Conversion metrics, pipeline value, and interactive KPIs.
+- **Unreliable spreadsheet imports** → CSV preview and validation before importing.
+- **Manual lead management** → Searchable lead details and authenticated deletion.
 
 **Core Features**
 
 - Lead scoring and qualification
-- Hot lead identification and prioritization
+- Hot lead prioritization
 - Sales pipeline and conversion analytics
-- CSV lead import with validation and preview
-- Rule-based sales recommendations
+- CSV import with validation and preview
+- Rule-based recommendations
 - Interactive dashboard and lead-level insights
 
 **Tech Stack**
@@ -302,8 +310,9 @@ A sales intelligence platform that helps Business Development teams prioritize p
 - **GitHub Repository:** https://github.com/AditiRanjan6/ai-sales-intelligence
 - **API Documentation:** https://ai-sales-intelligence-51hp.onrender.com/docs
 
-<sub>Deployed on Render. The free instance may take a short time to wake up after inactivity. Uses fictional demo lead data and rule-based recommendations.</sub>
+<sub>Deployed on Render. Uses fictional demo leads and rule-based recommendations, not an integrated external AI model. The free instance may take a short time to wake up after inactivity.</sub>
 
+---
 ---
 
 ## 02 · MARKET INTELLIGENCE
@@ -328,19 +337,29 @@ A sales intelligence platform that helps Business Development teams prioritize p
 
 </div>
 
-A market intelligence platform designed to help businesses explore market trends, compare competitors, evaluate potential opportunities, and make data-informed strategic decisions through interactive visualizations and explainable scoring.
+A market intelligence platform that transforms structured market data into interactive insights for competitor analysis, trend exploration, and opportunity prioritization.
+
+**The Problem**
+
+- Market data scattered across spreadsheets makes analysis time-consuming.
+- Comparing competitors and identifying market trends can be difficult.
+- Businesses lack a consistent way to rank potential growth opportunities.
+- Invalid or incomplete CSV data can undermine analysis.
+
+**The Solution**
+
+- Centralized dashboard with interactive market trends and KPIs.
+- Searchable competitor comparisons and visual analytics.
+- Transparent, weighted opportunity scoring and ranked recommendations.
+- CSV validation, error reporting, and data preview before analysis.
 
 **Core Features**
 
-- Market overview with key performance indicators
-- Interactive quarterly market trend analysis and range filtering
-- Competitor profiles, search, filtering, and comparison charts
-- Opportunity scoring based on documented weighted factors
-- Ranked opportunities with category filters and sorting
-- Business recommendations and opportunity insights
-- CSV data import with validation, error reporting, and data preview
-- CSV template download, upload size limits, and row validation
-- Responsive dashboard with clearly labelled synthetic demo data
+- Market overview and quarterly trend filtering
+- Competitor search, filtering, and comparison charts
+- Opportunity ranking, category filters, and sorting
+- CSV import, validation, preview, and template download
+- Responsive interface with interactive Plotly charts
 
 **Tech Stack**
 
@@ -351,7 +370,7 @@ A market intelligence platform designed to help businesses explore market trends
 - **Live Dashboard:** https://market-intelligence-dashboard-590f.onrender.com
 - **GitHub Repository:** https://github.com/AditiRanjan6/market-intelligence-dashboard
 
-<sub>Deployed on Render. The free instance may take a short time to wake up after inactivity. Market figures and competitor profiles use fictional synthetic demo data and should not be interpreted as verified real-world intelligence.</sub>
+<sub>Deployed on Render. Market figures and competitor profiles use synthetic demo data, not verified real-world intelligence.</sub>
 ---
 
 ## 03 · LEAD ANALYTICS
