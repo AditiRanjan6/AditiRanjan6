@@ -6,7 +6,7 @@
   width="100%"
 />
 
-<br><br>
+<br><br><br>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=900&color=CFFF00&center=true&vCenter=true&width=1000&lines=ADITI+RANJAN;B.TECH+IN+COMPUTER+SCIENCE;BUSINESS+DEVELOPMENT;PRODUCT+MANAGEMENT;ARTIFICIAL+INTELLIGENCE" />
@@ -32,9 +32,6 @@
 
 <br><br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=AditiRanjan6&label=PROFILE+VIEWS&color=CFFF00&style=flat-square&labelColor=111111"
-/>
 
 </div>
 
@@ -43,7 +40,7 @@
 
 <div align="center">
 
-<!-- INFOSYS CERTIFICATE -->
+# INFOSYS CERTIFICATE
 
 <img src="https://img.shields.io/badge/INFOSYS_SPRINGBOARD_|_DATA_STRUCTURES_AND_ALGORITHMS_USING_JAVA-CFFF00?style=for-the-badge&labelColor=CFFF00&color=CFFF00" />
 
@@ -93,7 +90,8 @@ Course Completion Certificate
 
 <br><br><br><br>
 
-<!-- GOOGLE CERTIFICATE -->
+
+# GOOGLE CERTIFICATE
 
 <img src="https://img.shields.io/badge/GOOGLE_PROJECT_MANAGEMENT_|_PROFESSIONAL_CERTIFICATE-CFFF00?style=for-the-badge&labelColor=CFFF00&color=CFFF00" />
 
