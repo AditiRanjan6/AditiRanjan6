@@ -375,31 +375,61 @@ A market intelligence platform that transforms structured market data into inter
 
 ## 03 · LEAD ANALYTICS
 
-### Lead Scoring & CRM Analytics
+### Lead Conversion Intelligence Dashboard
 
-<img src="https://img.shields.io/badge/STATUS-PLANNED-CFFF00?style=flat-square&labelColor=111111" />
+<div align="center">
 
-A data-driven system focused on helping BD teams **prioritize prospects based on lead quality, conversion potential and pipeline signals.**
+[![Live Dashboard](https://img.shields.io/badge/OPEN-LIVE_DASHBOARD-CFFF00?style=for-the-badge&labelColor=111111)](https://lead-conversion-intelligence-1.onrender.com)
 
-**Core capabilities**
+[![GitHub Repository](https://img.shields.io/badge/VIEW-SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&labelColor=111111)](https://github.com/AditiRanjan6/lead-conversion-intelligence)
 
-- Lead qualification
-- Lead scoring
-- Customer segmentation
-- Conversion analysis
-- Sales funnel analysis
-- Pipeline intelligence
-- Opportunity prioritization
+</div>
 
-**Stack**
+<br>
 
-`Python` `SQL` `Pandas` `Machine Learning` `Analytics`
+<div align="center">
 
-**Product Lens**
+<a href="https://lead-conversion-intelligence-1.onrender.com">
+<img src="project3.png" alt="Lead Conversion Intelligence Dashboard" width="100%" />
+</a>
 
-`Business Development` `CRM` `Data` `Growth`
+</div>
 
-**Repository:** `COMING SOON`
+A sales analytics platform that transforms structured lead data into actionable insights for conversion analysis, pipeline monitoring, and lead performance evaluation.
+
+**The Problem**
+
+- Sales teams struggle to identify where leads are concentrated across pipeline stages.
+- Conversion performance can be difficult to evaluate without centralized analytics.
+- Fragmented lead data makes it harder to assess qualification and deal value.
+- Poor visibility into pipeline outcomes limits data-driven sales decisions.
+
+**The Solution**
+
+- Centralized dashboard for lead growth, qualification, conversion, and deal value.
+- Interactive funnel intelligence with current-stage distribution and loss analysis.
+- Dataset selection for exploring different lead datasets.
+- Structured API responses and clear loading, empty, and error states.
+
+**Core Features**
+
+- Growth overview with lead, qualification, and conversion KPIs
+- Conversion rate and qualification rate analysis
+- Funnel distribution and loss intelligence
+- Dataset selection and dataset-specific analytics
+- Responsive dashboard with loading, empty, and error handling
+
+**Tech Stack**
+
+`Python` `FastAPI` `SQLite` `React` `TypeScript` `Vite` `CSS` `Pytest`
+
+**Project Links**
+
+- **Live Dashboard:** https://lead-conversion-intelligence-1.onrender.com
+- **GitHub Repository:** https://github.com/AditiRanjan6/lead-conversion-intelligence
+- **API Documentation:** https://lead-conversion-intelligence.onrender.com/docs
+
+<sub>Deployed on Render. The dashboard supports structured lead analytics; funnel metrics represent current-stage distribution rather than historical stage-to-stage transitions.</sub>
 
 ---
 
