@@ -597,7 +597,7 @@ A collection of structured product case studies exploring **how technology produ
 
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+<img src="https://skillicons.dev/icons?i=python,js" />
 
 ### Data & Development
 
